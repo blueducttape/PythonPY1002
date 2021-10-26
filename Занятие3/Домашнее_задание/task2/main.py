@@ -8,5 +8,6 @@ def check_string(str_):
 
 
 if __name__ == "__main__":
-    # Write your solution here
+    str_ = input()
+    print(check_string(str_))
     pass
